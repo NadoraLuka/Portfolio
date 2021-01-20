@@ -27,3 +27,5 @@ https://nadoraluka.github.io/Portfolio/
 
 ![RM](./assets/img/RM.PNG)
 ![SM](./assets/img/SM.PNG)
+.
+.
